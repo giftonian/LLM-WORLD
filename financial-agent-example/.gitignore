@@ -1,0 +1,44 @@
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Cache and logs
+*.log
+*.pot
+*.cache
+*.coverage
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment variables and secrets
+.env
+.env.*
+*.secret
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pyenv files
+.python-version
+
+# VSCode specific
+.vscode/
+
+# MacOS specific
+.DS_Store
+
+# IDE specific
+.idea/
+*.swp
+*.swo
+
+# Test and coverage reports
+*.
